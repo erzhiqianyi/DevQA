@@ -12,4 +12,4 @@ Daily Problem and answer
 |2020年9月27日|未解决|[统计图表设计思考]()|
 |2020年9月28日|未解决|[为什么要用微服务治理]()|
 |2020年9月30日|未解决|[为什么要用使用网关]()|
-
+|2020年10月10日|已解决|[HTTP状态码之206](https://github.com/erzhiqianyi/LeaningMicroservice/issues/4)|
